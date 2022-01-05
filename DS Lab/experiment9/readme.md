@@ -1,2 +1,3 @@
 
-Write a program to implement following operations using double linked list:
+Write a program that uses functions to perform the following operations using double linked list:
+a.Creation b.Insertion c.Deletion d.Traversal
