@@ -23,7 +23,7 @@ class Child : public base {
 			cin >> b;
 		}
 		void display() {
-			cout << "value of a" <<  a << "value of b" << b << endl;
+			cout << "value of a = " <<  a << endl << "value of b = " << b << endl;
 		}
 };
 int main() {
@@ -35,3 +35,4 @@ int main() {
 	obj1.display();
 	return 0;
 }
+
